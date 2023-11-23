@@ -1,0 +1,9 @@
+#form{
+  display: flex;
+  align-items: center;
+  gap :10px;
+}
+#text{
+  width: 200px;
+  height: 31px;
+}
